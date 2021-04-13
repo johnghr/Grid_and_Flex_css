@@ -1,0 +1,5 @@
+.popular {
+    display:grid;
+    grid-template-areas:
+        'header header header'
+        'img img io'

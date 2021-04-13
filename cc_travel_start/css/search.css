@@ -1,0 +1,21 @@
+.where-togo {
+    background-color: rgb(4, 4, 65);
+    color: white;
+    padding: 3%
+}
+
+#search {
+    background-color: rgb(250, 114, 114);
+    color: white;
+    height: 40px;
+    width: 150px;
+}
+
+.search-box {
+    background-color: transparent;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+
+}
